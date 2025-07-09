@@ -6,25 +6,25 @@ A lightweight and responsive Weather App built with React Native, designed to di
 🚀 Features
 
 
-📍 Get current weather based on user’s location (via GPS)
+* 📍 Get current weather based on user’s location (via GPS)
 
-🔍 Search weather by city name
+* 🔍 Search weather by city name
 
-🌡️ Displays temperature, humidity, weather description, and more
+* 🌡️ Displays temperature, humidity, weather description, and more
 
-📱 Clean and responsive UI compatible with both Android and iOS
+* 📱 Clean and responsive UI compatible with both Android and iOS
 
-🌙 Light and dark mode (optional)
+* 🌙 Light and dark mode (optional)
 
 
 🛠️ Tech Stack
 
 
-React Native
+* React Native
 
-OpenWeatherMap API (or similar weather API)
+* OpenWeatherMap API (or similar weather API)
 
-React Hooks for state and side-effects
+* React Hooks for state and side-effects
 
 * React-Native-Vector-Icons
 
@@ -32,19 +32,19 @@ React Hooks for state and side-effects
 📦 Installation
 
 
-bash
+* bash
 
-Copy
+* Copy
 
-Edit
+* Edit
 
-git clone https://github.com/MahaveerSukhani/Weather_App.git
+* git clone https://github.com/MahaveerSukhani/Weather_App.git
 
-cd Weather_App
+* cd Weather_App
 
-npm install
+* npm install
 
-expo start
+* expo start
 
 
 🔑 API Key Setup
@@ -67,7 +67,7 @@ expo start
 
 📄 License
 
-This project is licensed under the MIT License.
+* This project is licensed under the MIT License.
 
 
 
